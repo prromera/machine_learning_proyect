@@ -48,7 +48,7 @@ Instalación
 No es necesario instalar nada para ver el Cuaderno Jupyter. Sin embargo, si desea ejecutar el código localmente, asegúrese de tener instalados Python y Jupyter Notebook. 
 Puede instalar las bibliotecas de Python requeridas que aparecen en el notebook utilizando el siguiente comando:
 
-pip install -r requirements.txt
+pip install requirements
 
 Uso
 
